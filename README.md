@@ -37,6 +37,7 @@ The image depicted below illustrates the layout of our primary page. I have stra
 
 
 In the displayed image, a multifaceted approach has been employed in this project to underscore my proficiency in leveraging various advanced techniques within Power BI. Notably, the implementation encompasses the adept utilization of techniques such as Cards, KPIs, Sparklines, Bookmarks, Drilldown functionalities, and Page Navigation. This amalgamation of features serves to not only demonstrate the versatility of my skills but also to enhance the overall analytical depth and interactive appeal of the Power BI project.
+Also, numerous cards have been meticulously fashioned utilizing Data Analysis Expressions (DAX) within the Power BI framework.
 
 
 
